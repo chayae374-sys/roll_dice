@@ -10,5 +10,5 @@ def is_passing():
     else:
         return "faile"
 
-report(&quot;Dana&quot;, [80, 85])
-report(&quot;Avi&quot;, [50, 46])
+report(Dana, [80, 85])
+report(Avi, [50, 46])
